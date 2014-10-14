@@ -23,6 +23,8 @@ INSTALL
 
 如果想卸载，用[remove_install_for_windows.reg](https://github.com/jiacai2050/gooreplacer4chrome/raw/master/remove_install_for_windows.reg)文件清除注册表即可。
 
+Windows也可以下载src文件夹，并通过扩展程序中加载正在开发的扩展程序来安装。
+
 对于Linux/Mac用户：
 
 1. 先在Chrome中打开chrome://extensions/, 打开开发者模式，如下图<img src="http://img01.taobaocdn.com/imgextra/i1/581166664/TB2gof_apXXXXbCXpXXXXXXXXXX_!!581166664.png" alt=" develop"/>
